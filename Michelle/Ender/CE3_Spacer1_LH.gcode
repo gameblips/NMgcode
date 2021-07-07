@@ -9,12 +9,12 @@
 ;MAXY:206.731
 ;MAXZ:13.6
 ;Generated with Cura_SteamEngine 4.10.0
-M140 S55
+M140 S60
 M105
-M190 S55
-M104 S215
+M190 S60
+M104 S220
 M105
-M109 S215
+M109 S220
 M82 ;absolute extrusion mode
 ; Ender 3 Custom Start G-code
 G92 E0 ; Reset Extruder
@@ -97790,8 +97790,8 @@ M104 S0
 ;SETTING_3 {"global_quality": "[general]\\nversion = 4\\nname = Standard Quality
 ;SETTING_3  #2\\ndefinition = creality_ender3\\n\\n[metadata]\\ntype = quality_c
 ;SETTING_3 hanges\\nquality_type = standard\\nsetting_version = 17\\n\\n[values]
-;SETTING_3 \\nmaterial_bed_temperature = 55\\n\\n", "extruder_quality": ["[gener
-;SETTING_3 al]\\nversion = 4\\nname = Standard Quality #2\\ndefinition = crealit
-;SETTING_3 y_ender3\\n\\n[metadata]\\ntype = quality_changes\\nquality_type = st
-;SETTING_3 andard\\nsetting_version = 17\\nposition = 0\\n\\n[values]\\ninfill_s
-;SETTING_3 parse_density = 50.0\\nmaterial_print_temperature = 215.0\\n\\n"]}
+;SETTING_3 \\nmaterial_bed_temperature = 60.0\\n\\n", "extruder_quality": ["[gen
+;SETTING_3 eral]\\nversion = 4\\nname = Standard Quality #2\\ndefinition = creal
+;SETTING_3 ity_ender3\\n\\n[metadata]\\ntype = quality_changes\\nquality_type = 
+;SETTING_3 standard\\nsetting_version = 17\\nposition = 0\\n\\n[values]\\ninfill
+;SETTING_3 _sparse_density = 50.0\\nmaterial_print_temperature = 220.0\\n\\n"]}
